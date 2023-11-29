@@ -1,0 +1,14 @@
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\bin\Debug\netcoreapp3.1\Répétitve ex 4 c.exe
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\bin\Debug\netcoreapp3.1\Répétitve ex 4 c.deps.json
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\bin\Debug\netcoreapp3.1\Répétitve ex 4 c.runtimeconfig.json
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\bin\Debug\netcoreapp3.1\Répétitve ex 4 c.runtimeconfig.dev.json
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\bin\Debug\netcoreapp3.1\Répétitve ex 4 c.dll
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\bin\Debug\netcoreapp3.1\Répétitve ex 4 c.pdb
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.AssemblyInfoInputs.cache
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.AssemblyInfo.cs
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.dll
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.pdb
+C:\Users\fouka\source\repos\Répétitve ex 4 c\Répétitve ex 4 c\obj\Debug\netcoreapp3.1\Répétitve ex 4 c.genruntimeconfig.cache
